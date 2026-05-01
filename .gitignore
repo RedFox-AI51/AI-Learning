@@ -1,2 +1,4 @@
 nesa_syllabuses/
 nesa_syllabuses_PDF/
+
+__pycache__/
