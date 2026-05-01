@@ -1,0 +1,10 @@
+{
+  "biology": {
+    "name": "Biology",
+    "kla": "Science",
+    "ingested": true,
+    "ingested_at": "2026-05-01T14:47:57",
+    "modules": 10,
+    "dot_points": 140
+  }
+}

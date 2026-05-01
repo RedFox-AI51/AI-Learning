@@ -1,0 +1,373 @@
+NESA Stage 6 — Chemistry (2017)
+NSW Syllabus for the Australian Curriculum
+============================================================
+
+RATIONALE
+Chemistry is the study of the composition, structure, properties and reactions of matter. Understanding chemistry is central to understanding the physical world, from the behaviour of atoms and molecules to the development of new materials, medicines and technologies. Chemistry uses Working Scientifically processes to develop investigative skills and apply quantitative models to real-world problems.
+
+AIM
+The study of Chemistry in Stage 6 aims to enable students to develop an appreciation and understanding of the nature and practice of chemistry, to apply chemistry knowledge and skills to familiar and novel situations, and to engage with chemical ideas in a variety of contexts.
+
+OUTCOMES
+Working Scientifically (Years 11 and 12):
+- CH11/12-1: develops and evaluates questions and hypotheses for scientific investigation
+- CH11/12-2: designs and evaluates investigations in order to obtain primary and secondary data and information
+- CH11/12-3: conducts investigations to collect valid and reliable primary and secondary data and information
+- CH11/12-4: selects and processes appropriate qualitative and quantitative data and information using a range of appropriate media
+- CH11/12-5: analyses and evaluates primary and secondary data and information
+- CH11/12-6: solves scientific problems using primary and secondary data, critical thinking skills and scientific processes
+- CH11/12-7: communicates scientific understanding using suitable language and terminology for a specific audience or purpose
+
+Year 11 Knowledge and Understanding:
+- CH11-8: explores the properties and trends in the physical, structural and chemical aspects of matter
+- CH11-9: describes, applies and quantitatively analyses the mole concept and stoichiometric relationships
+- CH11-10: explores the many different types of chemical reactions, in particular the reactivity of metals, and the factors that affect the rate of chemical reactions
+- CH11-11: analyses the energy considerations in the driving force for chemical reactions
+
+Year 12 Knowledge and Understanding:
+- CH12-12: explains the characteristics of equilibrium systems, and the factors that affect these systems
+- CH12-13: describes, explains and quantitatively analyses acids and bases using contemporary models
+- CH12-14: analyses the structure of, and predicts reactions involving, carbon compounds
+- CH12-15: describes and evaluates chemical systems used to design and analyse chemical processes
+
+============================================================
+YEAR 11 COURSE
+============================================================
+
+--- Module 1: Properties and Structure of Matter ---
+
+Content Focus: Students analyse trends and patterns in relation to the properties of pure substances and use these to predict the properties of other pure substances. Matter can be either pure substances with distinct measurable properties (melting and boiling points, reactivity, strength, density) or mixtures with properties dependent on the identity and relative amounts of component substances. Students use knowledge of the periodic table to examine trends and patterns between elements, discovering that fundamental particles and their role in atomic structure give all chemicals their properties.
+
+PROPERTIES OF MATTER
+Inquiry question: How do the properties of substances help us to classify and separate them?
+
+Students:
+- explore homogeneous mixtures and heterogeneous mixtures through practical investigations, using separation techniques based on physical properties and calculating percentage composition by weight of component elements and/or compounds
+- investigate the nomenclature of inorganic substances using IUPAC naming conventions
+- classify the elements based on their physical and chemical properties and position in the periodic table
+
+ATOMIC STRUCTURE AND ATOMIC MASS
+Inquiry question: Why are atoms of elements different from one another?
+
+Students:
+- investigate the basic structure of stable and unstable isotopes by examining their position in the periodic table, the distribution of electrons, protons and neutrons in the atom, and representation of the symbol, atomic number and mass number
+- model the atom's discrete energy levels, including electronic configuration and spdf notation
+- calculate the relative atomic mass from isotopic composition
+- investigate energy levels in atoms and ions through collecting primary data from flame tests using different ionic solutions of metals, and examining spectral evidence for the Bohr model and introducing the Schrödinger model
+- investigate the properties of unstable isotopes using natural and human-made radioisotopes as examples, including types of radiation and types of balanced nuclear reactions
+
+PERIODICITY
+Inquiry question: Are there patterns in the properties of elements?
+
+Students:
+- demonstrate, explain and predict the relationships in the observable trends in the physical and chemical properties of elements in periods and groups in the periodic table, including state of matter at room temperature, electronic configurations and atomic radii, first ionisation energy and electronegativity, and reactivity with water
+
+BONDING
+Inquiry question: What binds atoms together in elements and compounds?
+
+Students:
+- investigate the role of electronegativity in determining the ionic or covalent nature of bonds between atoms
+- investigate the differences between ionic and covalent compounds through using nomenclature, valency and chemical formulae (including Lewis dot diagrams), examining the spectrum of bonds between atoms with varying degrees of polarity, and modelling the shapes of molecular substances
+- investigate elements that possess the physical property of allotropy
+- investigate the different chemical structures of atoms and elements, including ionic networks, covalent networks (including diamond and silicon dioxide), covalent molecular, and metallic structure
+- explore the similarities and differences between the nature of intermolecular and intramolecular bonds and the strength of the forces associated with each, in order to explain the physical properties of elements and compounds
+
+
+--- Module 2: Introduction to Quantitative Chemistry ---
+
+Content Focus: Students are introduced to the quantitative nature of chemistry. Chemists must be able to quantify reactions to make predictions about yields and communicate using nomenclature unique to the discipline. Using the mole concept, students select and use appropriate mathematical representations to solve problems, make predictions and calculate the mass of reactants and products whether solid, liquid or gas.
+
+CHEMICAL REACTIONS AND STOICHIOMETRY
+Inquiry question: What happens in chemical reactions?
+
+Students:
+- conduct practical investigations to observe and measure the quantitative relationships of chemical reactions, including masses of solids and/or liquids in chemical reactions, and volumes of gases in chemical reactions
+- relate stoichiometry to the law of conservation of mass in chemical reactions by investigating balancing chemical equations and solving problems regarding mass changes in chemical reactions
+
+MOLE CONCEPT
+Inquiry question: How are measurements made in chemistry?
+
+Students:
+- conduct a practical investigation to demonstrate and calculate the molar mass of an element and a compound
+- conduct an investigation to determine that chemicals react in simple whole number ratios by moles
+- explore the concept of the mole and relate this to Avogadro's constant to describe, calculate and manipulate masses, chemical amounts and numbers of particles in: moles of elements and compounds using n = m/MM (where n = chemical amount in moles, m = mass in grams, MM = molar mass in g/mol), percentage composition calculations and empirical formulae, and limiting reagent reactions
+
+CONCENTRATION AND MOLARITY
+Inquiry question: How are chemicals in solutions measured?
+
+Students:
+- conduct practical investigations to determine the concentrations of solutions and investigate the different ways in which concentrations are measured
+- manipulate variables and solve problems to calculate concentration, mass or volume using c = n/V (molarity formula) and dilutions (number of moles before dilution = number of moles of sample after dilution)
+- conduct an investigation to make a standard solution and perform a dilution
+
+GAS LAWS
+Inquiry question: How does the Ideal Gas Law relate to all other Gas Laws?
+
+Students:
+- conduct investigations and solve problems to determine the relationship between the Ideal Gas Law and Gay-Lussac's Law (temperature), Boyle's Law, Charles' Law, and Avogadro's Law
+
+
+--- Module 3: Reactive Chemistry ---
+
+Content Focus: All chemical reactions involve the creation of new substances and associated energy transformations, commonly observable as changes in temperature and/or emission of light. Students study how chemicals react, the changes in matter and energy that take place, and how these relate to chemicals used in everyday life. They examine factors affecting reaction rates and the reactivity series of metals.
+
+CHEMICAL REACTIONS
+Inquiry question: What are the products of a chemical reaction?
+
+Students:
+- investigate a variety of reactions to identify possible indicators of a chemical change
+- use modelling to demonstrate the rearrangement of atoms to form new substances and the conservation of atoms in a chemical reaction
+- conduct investigations to predict and identify the products of a range of reactions, including synthesis, decomposition, combustion, precipitation, acid/base reactions, and acid/carbonate reactions
+- investigate the chemical processes that occur when Aboriginal and Torres Strait Islander Peoples detoxify poisonous food items
+- construct balanced equations to represent chemical reactions
+
+PREDICTING REACTIONS OF METALS
+Inquiry question: How is the reactivity of various metals predicted?
+
+Students:
+- conduct practical investigations to compare the reactivity of a variety of metals in water, dilute acid, oxygen, and other metal ions in solution
+- construct a metal activity series using data obtained from practical investigations and compare with standard secondary-sourced information
+- analyse patterns in metal activity on the periodic table and explain why they correlate with ionisation energy, atomic radius, and electronegativity
+- apply the definitions of oxidation and reduction in terms of electron transfer and oxidation numbers to a range of redox reactions
+- conduct investigations to measure and compare the reduction potential of galvanic half-cells
+- construct relevant half-equations and balanced overall equations to represent a range of redox reactions
+- predict the reaction of metals in solutions using the table of standard reduction potentials
+- predict the spontaneity of redox reactions using the value of cell potentials
+
+RATES OF REACTIONS
+Inquiry question: What affects the rate of a chemical reaction?
+
+Students:
+- conduct a practical investigation to collect data, analyse and report on how the rate of a chemical reaction can be affected by temperature, surface area of reactant(s), concentration of reactant(s), and catalysts
+- investigate the role of activation energy, collisions and molecular orientation in collision theory
+- explain a change in reaction rate using collision theory
+
+
+--- Module 4: Drivers of Reactions ---
+
+Content Focus: Students investigate factors that initiate and drive a reaction, examining the relationship between enthalpy and entropy in calculating the Gibbs free energy and the roles that enthalpy and entropy play in the spontaneity of reactions. Students conduct investigations to measure heat energy changes in chemical reactions, describing reactions as endothermic or exothermic and explaining them in terms of the law of conservation of energy.
+
+ENERGY CHANGES IN CHEMICAL REACTIONS
+Inquiry question: What energy changes occur in chemical reactions?
+
+Students:
+- conduct practical investigations to measure temperature changes in examples of endothermic and exothermic reactions, including combustion and dissociation of ionic substances in aqueous solution
+- investigate enthalpy changes in reactions using calorimetry and q = mcΔT to calculate, analyse and compare experimental results with reliable secondary-sourced data, and to explain any differences
+- construct energy profile diagrams to represent and analyse the enthalpy changes and activation energy associated with a chemical reaction
+- model and analyse the role of catalysts in reactions
+
+ENTHALPY AND HESS'S LAW
+Inquiry question: How much energy does it take to break bonds, and how much is released when bonds are formed?
+
+Students:
+- explain the enthalpy changes in a reaction in terms of breaking and reforming bonds, and relate this to the law of conservation of energy
+- investigate Hess's Law in quantifying the enthalpy change for a stepped reaction using standard enthalpy change data and bond energy data, for example carbon reacting with oxygen to form carbon dioxide via carbon monoxide
+- apply Hess's Law to simple energy cycles and solve problems to quantify enthalpy changes within reactions, including heat of combustion, enthalpy changes involved in photosynthesis, and enthalpy changes involved in respiration
+
+ENTROPY AND GIBBS FREE ENERGY
+Inquiry question: How can enthalpy and entropy be used to explain reaction spontaneity?
+
+Students:
+- analyse the differences between entropy and enthalpy
+- use modelling to illustrate entropy changes in reactions
+- predict entropy changes from balanced chemical reactions to classify as increasing or decreasing entropy
+- explain reaction spontaneity using Gibbs free energy, enthalpy, and entropy
+- solve problems using standard references and ΔG° = ΔH° - TΔS° (Gibbs free energy formula) to classify reactions as spontaneous or nonspontaneous
+- predict the effect of temperature changes on spontaneity
+
+
+============================================================
+YEAR 12 COURSE
+============================================================
+
+--- Module 5: Equilibrium and Acid Reactions ---
+
+Content Focus: Students study the effects of changes in temperature, concentration and pressure on equilibrium systems, considering that these can be predicted by applying Le Chatelier's principle. They analyse the quantitative relationship between products and reactants in equilibrium reactions to determine an equilibrium constant, and use this to predict the equilibrium position. Students also use equilibrium calculations to determine whether a combination of two solutions will result in the formation of a precipitate.
+
+STATIC AND DYNAMIC EQUILIBRIUM
+Inquiry question: What happens when chemical reactions do not go through to completion?
+
+Students:
+- conduct practical investigations to analyse the reversibility of chemical reactions, for example cobalt(II) chloride hydrated and dehydrated, iron(III) nitrate and potassium thiocyanate, burning magnesium, and burning steel wool
+- model static and dynamic equilibrium and analyse the differences between open and closed systems
+- analyse examples of non-equilibrium systems in terms of the effect of entropy and enthalpy, for example combustion reactions and photosynthesis
+- investigate the relationship between collision theory and reaction rate in order to analyse chemical equilibrium reactions
+
+FACTORS THAT AFFECT EQUILIBRIUM
+Inquiry question: What factors affect equilibrium and how?
+
+Students:
+- investigate the effects of temperature, concentration, volume and/or pressure on a system at equilibrium and explain how Le Chatelier's principle can be used to predict such effects, for example heating cobalt(II) chloride hydrate, interaction between nitrogen dioxide and dinitrogen tetroxide, and iron(III) thiocyanate and varying concentration of ions
+- explain overall observations about equilibrium in terms of collision theory
+- examine how activation energy and heat of reaction affect the position of equilibrium
+
+CALCULATING THE EQUILIBRIUM CONSTANT (Keq)
+Inquiry question: How can the position of equilibrium be described and what does the equilibrium constant represent?
+
+Students:
+- deduce the equilibrium expression in terms of Keq for homogeneous reactions occurring in solution
+- perform calculations to find the value of Keq and concentrations of substances within an equilibrium system, and use these values to make predictions on the direction in which a reaction may proceed
+- qualitatively analyse the effect of temperature on the value of Keq
+- conduct an investigation to determine Keq of a chemical equilibrium system, for example Keq of the iron(III) thiocyanate equilibrium
+- explore the use of Keq for different types of chemical reactions, including dissociation of ionic solutions and dissociation of acids and bases
+
+SOLUTION EQUILIBRIA
+Inquiry question: How does solubility relate to chemical equilibrium?
+
+Students:
+- describe and analyse the processes involved in the dissolution of ionic compounds in water
+- investigate the use of solubility equilibria by Aboriginal and Torres Strait Islander Peoples when removing toxicity from foods, for example toxins in cycad fruit
+- conduct an investigation to determine solubility rules, and predict and analyse the composition of substances when two ionic solutions are mixed, for example potassium chloride and silver nitrate, potassium iodide and lead nitrate, and sodium sulfate and barium nitrate
+- derive equilibrium expressions for saturated solutions in terms of Ksp and calculate the solubility of an ionic substance from its Ksp value
+- predict the formation of a precipitate given the standard reference values for Ksp
+
+
+--- Module 6: Acid/Base Reactions ---
+
+Content Focus: Students analyse how and why the definitions of an acid and a base have changed over time, and how the current definitions characterise the many chemical reactions of acids. Acids and bases and their reactions are used extensively in everyday life and in the human body. By investigating the qualitative and quantitative properties of acids and bases, students learn to appreciate the importance of factors such as pH and indicators.
+
+PROPERTIES OF ACIDS AND BASES
+Inquiry question: What is an acid and what is a base?
+
+Students:
+- investigate the correct IUPAC nomenclature and properties of common inorganic acids and bases
+- conduct an investigation to demonstrate the preparation and use of indicators as illustrators of the characteristics and properties of acids and bases and their reversible reactions
+- predict the products of acid reactions and write balanced equations to represent acids and bases, acids and carbonates, and acids and metals
+- investigate applications of neutralisation reactions in everyday life and industrial processes
+- conduct a practical investigation to measure the enthalpy of neutralisation
+- explore the changes in definitions and models of an acid and a base over time, including Arrhenius' theory and Brønsted-Lowry theory
+
+USING BRØNSTED–LOWRY THEORY
+Inquiry question: What is the role of water in solutions of acids and bases?
+
+Students:
+- conduct a practical investigation to measure the pH of a range of acids and bases
+- calculate pH, pOH, hydrogen ion concentration ([H+]) and hydroxide ion concentration ([OH-]) for a range of solutions
+- conduct an investigation to demonstrate the use of pH to indicate the differences between the strength of acids and bases
+- write ionic equations to represent the dissociation of acids and bases in water, conjugate acid/base pairs in solution and the amphiprotic nature of some salts, for example sodium hydrogen carbonate and potassium dihydrogen phosphate
+- construct models and/or animations to communicate the differences between strong, weak, concentrated and dilute acids and bases
+- calculate the pH of the resultant solution when solutions of acids and/or bases are diluted or mixed
+
+QUANTITATIVE ANALYSIS
+Inquiry question: How are solutions of acids and bases analysed?
+
+Students:
+- conduct practical investigations to analyse the concentration of an unknown acid or base by titration
+- investigate titration curves and conductivity graphs to analyse data to indicate characteristic reaction profiles, including strong acid/strong base, strong acid/weak base, and weak acid/strong base
+- model neutralisation of strong and weak acids and bases using a variety of media
+- calculate and apply the dissociation constant (Ka) and pKa (pKa = -log10(Ka)) to determine the difference between strong and weak acids
+- explore acid/base analysis techniques applied in industries, by Aboriginal and Torres Strait Islander Peoples, and using digital probes and instruments
+- conduct a chemical analysis of a common household substance for its acidity or basicity, for example soft drink, wine, juice, or medicine
+- conduct a practical investigation to prepare a buffer and demonstrate its properties
+- describe the importance of buffers in natural systems
+
+
+--- Module 7: Organic Chemistry ---
+
+Content Focus: Students focus on the principles and applications of chemical synthesis in organic chemistry. Each class of organic compounds displays characteristic chemical properties and undergoes specific reactions based on the functional groups present. Students investigate the many classes of organic compounds and their characteristic chemical reactions, including acid/base and oxidation reactions. They consider the primary, secondary and tertiary structures of organic materials and relate these to properties including strength, density and biodegradability.
+
+NOMENCLATURE
+Inquiry question: How do we systematically name organic chemical compounds?
+
+Students:
+- investigate the nomenclature of organic chemicals up to C8 using IUPAC conventions, including simple methyl and ethyl branched chains, covering alkanes, alkenes, alkynes, alcohols (primary, secondary and tertiary), aldehydes and ketones, carboxylic acids, amines and amides, and halogenated organic compounds
+- explore and distinguish the different types of structural isomers, including chain isomers, position isomers, and functional group isomers
+
+HYDROCARBONS
+Inquiry question: How can hydrocarbons be classified based on their structure and reactivity?
+
+Students:
+- construct models, identify the functional group, and write structural and molecular formulae for homologous series of organic compounds up to C8, including alkanes, alkenes, and alkynes
+- conduct an investigation to compare the properties of organic compounds within a homologous series, and explain differences in terms of bonding
+- analyse the shape of molecules formed between carbon atoms when a single, double or triple bond is formed between them
+- explain the properties within and between the homologous series of alkanes with reference to intermolecular and intramolecular bonding
+- describe the procedures required to safely handle and dispose of organic substances
+- examine the environmental, economic and sociocultural implications of obtaining and using hydrocarbons from the Earth
+
+PRODUCTS OF REACTIONS INVOLVING HYDROCARBONS
+Inquiry question: What are the products of reactions of hydrocarbons and how do they react?
+
+Students:
+- investigate, write equations and construct models to represent the reactions of unsaturated hydrocarbons when added to hydrogen (H2), halogens (X2), hydrogen halides (HX), and water (H2O)
+- investigate, write equations and construct models to represent the reactions of saturated hydrocarbons when substituted with halogens
+
+ALCOHOLS
+Inquiry question: How can alcohols be produced and what are their properties?
+
+Students:
+- investigate the structural formulae, properties and functional groups of primary, secondary and tertiary alcohols
+- explain the properties within and between the homologous series of alcohols with reference to intermolecular and intramolecular bonding
+- conduct a practical investigation to measure and reliably compare the enthalpy of combustion for a range of alcohols
+- write equations, state conditions and predict products to represent the reactions of alcohols, including combustion, dehydration, substitution with HX, and oxidation
+- investigate the production of alcohols, including substitution reactions of halogenated organic compounds and fermentation
+- investigate the products of the oxidation of primary and secondary alcohols
+- compare and contrast fuels from organic sources to biofuels, including ethanol
+
+REACTIONS OF ORGANIC ACIDS AND BASES
+Inquiry question: What are the properties of organic acids and bases?
+
+Students:
+- investigate the structural formulae, properties and functional groups of primary, secondary and tertiary alcohols, aldehydes and ketones, amines and amides, and carboxylic acids
+- explain the properties within and between the homologous series of carboxylic acids, amines and amides with reference to intermolecular and intramolecular bonding
+- investigate the production of simple esters in a school laboratory
+- investigate the differences between an organic acid and organic base
+- investigate the structure and action of soaps and detergents
+- draft and construct flow charts to show reaction pathways for chemical synthesis, including those that involve more than one step
+
+POLYMERS
+Inquiry question: What are the properties and uses of polymers?
+
+Students:
+- model and compare the structure, properties and uses of addition polymers of ethylene and related monomers, for example polyethylene (PE), polyvinyl chloride (PVC), polystyrene (PS), and polytetrafluoroethylene (PTFE)
+- model and compare the structure, properties and uses of condensation polymers, for example nylon and polyesters
+
+
+--- Module 8: Applying Chemical Ideas ---
+
+Content Focus: The identification and analysis of chemicals is of immense importance in scientific research, medicine, environmental management, quality control, mining and many other fields. Students investigate a range of methods used to identify and measure quantities of chemicals, including identification and quantification of ions in aqueous solutions. They also deduce or confirm the structure and identity of organic compounds by interpreting data from qualitative tests and NMR spectroscopy.
+
+ANALYSIS OF INORGANIC SUBSTANCES
+Inquiry question: How are the ions present in the environment identified and measured?
+
+Students:
+- analyse the need for monitoring the environment
+- conduct qualitative investigations using flame tests, precipitation and complexation reactions to test for the presence in aqueous solution of the following cations: barium (Ba2+), calcium (Ca2+), magnesium (Mg2+), lead(II) (Pb2+), silver ion (Ag+), copper(II) (Cu2+), iron(II) (Fe2+), iron(III) (Fe3+); and the following anions: chloride (Cl-), bromide (Br-), iodide (I-), hydroxide (OH-), acetate (CH3COO-), carbonate (CO32-), sulfate (SO42-), phosphate (PO43-)
+- conduct investigations and/or process data involving gravimetric analysis and precipitation titrations
+- conduct investigations and/or process data to determine the concentration of coloured species and/or metal ions in aqueous solution, including the use of colourimetry, ultraviolet-visible spectrophotometry, and atomic absorption spectroscopy
+
+ANALYSIS OF ORGANIC SUBSTANCES
+Inquiry question: How is information about the reactivity and structure of organic compounds obtained?
+
+Students:
+- conduct qualitative investigations to test for the presence in organic molecules of carbon-carbon double bonds, hydroxyl groups, and carboxylic acids
+- investigate the processes used to analyse the structure of simple organic compounds, including proton and carbon-13 NMR, mass spectrometry, and infrared spectroscopy
+
+CHEMICAL SYNTHESIS AND DESIGN
+Inquiry question: What are the implications for society of chemical synthesis and design?
+
+Students:
+- evaluate the factors that need to be considered when designing a chemical synthesis process, including availability of reagents, reaction conditions, yield and purity, industrial uses (pharmaceutical, cosmetics, cleaning products, fuels), and environmental, social and economic issues
+
+
+============================================================
+GLOSSARY
+============================================================
+
+conclusion: A judgement based on evidence.
+controlled variable: A variable that is kept constant (or changed in constant ways) during an investigation.
+dependent variable: A variable that changes in response to changes to the independent variable in an investigation.
+enthalpy: A thermodynamic quantity equivalent to the total heat content of a system.
+entropy: The degree of disorder or randomness in a system.
+hypothesis: A tentative explanation for an observed phenomenon, expressed as a precise and unambiguous statement that can be supported or refuted by investigation.
+independent variable: A variable that is changed in an investigation to see what effect it has on the dependent variable.
+investigation: A scientific process of answering a question, exploring an idea or solving a problem, which requires activities such as planning a course of action, collecting data, interpreting data, reaching a conclusion and communicating these activities.
+law: A statement describing invariable relationships between phenomena in specified conditions, frequently expressed mathematically.
+model: A representation that describes, simplifies, clarifies or provides an explanation of the workings, structure or relationships within an object, system or idea.
+molar mass: The mass of one mole of a substance.
+qualitative: Relating to, measuring, or measured by the quality of something.
+quantitative: Relating to, measuring, or measured by the quantity of something.
+redox: A reaction in which one substance is reduced and another is oxidised.
+reliability: An extent to which repeated observations and/or measurements taken under identical circumstances will yield similar results.
+theory: A set of concepts, claims and/or laws that can be used to explain and predict a wide range of related observed phenomena. Theories are founded on clearly identified assumptions, are testable, produce reproducible results and have explanatory power.
+validity: An extent to which tests measure what was intended; an extent to which data, inferences and actions produced from tests and other processes are accurate.
+variable: In an investigation, a factor that can be changed, kept the same or measured, for example time, distance, light, temperature.

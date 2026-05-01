@@ -1,0 +1,398 @@
+NESA Stage 6 — Physics (2017)
+NSW Syllabus for the Australian Curriculum
+============================================================
+
+RATIONALE
+Physics involves the study of matter and its motion through space and time, along with related concepts including energy and force. Physics deals with phenomena on scales from nuclear particles and their interactions up to the size and age of the Universe. The problem-solving nature of physics develops Working Scientifically skills by focusing on the exploration of models and the analysis of theories and laws. Students use observations to develop quantitative models of real-world problems and derive relationships between variables.
+
+AIM
+The study of Physics in Stage 6 aims to enable students to develop an appreciation and understanding of the application of the principles of physics, and of the theories, laws, models, systems and structures of physics. It also enables students to apply Working Scientifically skills processes to examine physics models and practices and their applications.
+
+OUTCOMES
+Working Scientifically (Years 11 and 12):
+- PH11/12-1: develops and evaluates questions and hypotheses for scientific investigation
+- PH11/12-2: designs and evaluates investigations in order to obtain primary and secondary data and information
+- PH11/12-3: conducts investigations to collect valid and reliable primary and secondary data and information
+- PH11/12-4: selects and processes appropriate qualitative and quantitative data and information using a range of appropriate media
+- PH11/12-5: analyses and evaluates primary and secondary data and information
+- PH11/12-6: solves scientific problems using primary and secondary data, critical thinking skills and scientific processes
+- PH11/12-7: communicates scientific understanding using suitable language and terminology for a specific audience or purpose
+
+Year 11 Knowledge and Understanding:
+- PH11-8: describes and analyses motion in terms of scalar and vector quantities in two dimensions and makes quantitative measurements and calculations for distance, displacement, speed, velocity and acceleration
+- PH11-9: describes and explains events in terms of Newton's Laws of Motion, the law of conservation of momentum and the law of conservation of energy
+- PH11-10: explains and analyses waves and the transfer of energy by sound, light and thermodynamic principles
+- PH11-11: explains and quantitatively analyses electric fields, circuitry and magnetism
+
+Year 12 Knowledge and Understanding:
+- PH12-12: describes and analyses qualitatively and quantitatively circular motion and motion in a gravitational field, in particular, the projectile motion of particles
+- PH12-13: explains and analyses the electric and magnetic interactions due to charged particles and currents and evaluates their effect both qualitatively and quantitatively
+- PH12-14: describes and analyses evidence for the properties of light and evaluates the implications of this evidence for modern theories of physics in the contemporary world
+- PH12-15: explains and analyses the evidence supporting the relationship between astronomical events and the nucleosynthesis of atoms and relates these to the development of the current model of the atom
+
+============================================================
+YEAR 11 COURSE
+============================================================
+
+--- Module 1: Kinematics ---
+
+Content Focus: Motion is a fundamental observable phenomenon. The study of kinematics involves describing, measuring and analysing motion without considering the forces and masses involved. Uniformly accelerated motion is described in terms of relationships between measurable scalar and vector quantities, including displacement, speed, velocity, acceleration and time. Representations including graphs, vectors and equations of motion can be used qualitatively and quantitatively to describe and predict linear motion.
+
+MOTION IN A STRAIGHT LINE
+Inquiry question: How is the motion of an object moving in a straight line described and predicted?
+
+Students:
+- describe uniform straight-line (rectilinear) motion and uniformly accelerated motion through qualitative descriptions and the use of scalar and vector quantities
+- conduct a practical investigation to gather data to facilitate the analysis of instantaneous and average velocity through quantitative first-hand measurements and graphical representation and interpretation of data
+- calculate the relative velocity of two objects moving along the same line using vector analysis
+- conduct practical investigations to record and analyse the motion of objects in one dimension to measure or calculate time, distance, displacement, speed, velocity, and acceleration
+- use mathematical modelling and graphs to analyse and derive relationships between time, distance, displacement, speed, velocity and acceleration in rectilinear motion, including:
+  - s = ut + ½at²
+  - v = u + at
+  - v² = u² + 2as
+
+MOTION ON A PLANE
+Inquiry question: How is the motion of an object that changes its direction of movement on a plane described?
+
+Students:
+- analyse vectors in one and two dimensions to resolve a vector into two perpendicular components, and add two perpendicular vector components to obtain a single vector
+- represent the distance and displacement of objects moving on a horizontal plane using vector addition and resolution of components of vectors
+- describe and analyse algebraically, graphically and with vector diagrams the ways in which the motion of objects changes, including velocity and displacement
+- describe and analyse, using vector analysis, the relative positions and motions of one object relative to another object on a plane
+- analyse the relative motion of objects in two dimensions in situations such as a boat on a flowing river relative to the bank, two moving cars, and an aeroplane in a crosswind relative to the ground
+
+
+--- Module 2: Dynamics ---
+
+Content Focus: The relationship between the motion of objects and the forces that act on them is often complex. Newton's Laws of Motion can be used to describe the effect of forces on the motion of single objects and simple systems. Forces are always produced in pairs that act on different objects and add to zero. Students examine the effects of forces and the interactions between objects by modelling and representing these using vectors and equations.
+
+FORCES
+Inquiry question: How are forces produced between objects and what effects do forces produce?
+
+Students:
+- using Newton's Laws of Motion, describe static and dynamic interactions between two or more objects and the changes that result from a contact force and a force mediated by fields
+- explore the concept of net force and equilibrium in one-dimensional and simple two-dimensional contexts using algebraic addition, vector addition, and vector addition by resolution into components
+- solve problems or make quantitative predictions about resultant and component forces by applying: FAB = -FBA and Fx = Fcosθ, Fy = Fsinθ
+- conduct a practical investigation to explain and predict the motion of objects on inclined planes
+
+FORCES, ACCELERATION AND ENERGY
+Inquiry question: How can the motion of objects be explained and analysed?
+
+Students:
+- apply Newton's first two laws of motion to a variety of everyday situations including static and dynamic examples, and include the role played by friction: f_friction = μF_N
+- investigate, describe and analyse the acceleration of a single object subjected to a constant net force and relate the motion of the object to Newton's Second Law through qualitative descriptions, graphs and vectors, and deriving relationships including F_net = ma and relationships of uniformly accelerated motion
+- apply the special case of conservation of mechanical energy to quantitative analysis of motion involving work done and change in kinetic energy: W = F∥s = Fscosθ, changes in gravitational potential energy: ΔU = mgΔh
+- conduct investigations to analyse qualitatively and quantitatively the concept of average power P = ΔE/Δt, P = F∥v = Fvcosθ including uniformly accelerated rectilinear motion, objects raised against gravity, and work done against air resistance, rolling resistance and friction
+
+MOMENTUM, ENERGY AND SIMPLE SYSTEMS
+Inquiry question: How is the motion of objects in a simple system dependent on the interaction between the objects?
+
+Students:
+- conduct an investigation to describe and analyse one-dimensional and two-dimensional interactions of objects in simple closed systems
+- analyse quantitatively and predict, using conservation of momentum (mv_before = mv_after) and, where appropriate, conservation of kinetic energy (½mv_before² = ½mv_after²), the results of interactions in elastic collisions
+- investigate the relationship and analyse information from graphical representations of force as a function of time
+- evaluate the effects of forces in collisions and other interactions, and analyse quantitatively using the concept of impulse: Δp = F_net Δt
+- analyse and compare the momentum and kinetic energy of elastic and inelastic collisions
+
+
+--- Module 3: Waves and Thermodynamics ---
+
+Content Focus: Wave motion involves the transfer of energy without the transfer of matter. Students explore the behaviour of wave motion and examine wavelength, frequency, period, velocity and amplitude. They demonstrate how waves can be reflected, refracted, diffracted and superposed. Students also examine energy transfer in the form of heat, including conduction, convection, and radiation. Understanding thermodynamics provides a pathway to understanding related concepts across many STEM fields.
+
+WAVE PROPERTIES
+Inquiry question: What are the properties of all waves and wave motion?
+
+Students:
+- conduct a practical investigation involving the creation of mechanical waves in a variety of situations to explain the role of the medium in the propagation of mechanical waves and the transfer of energy involved
+- conduct practical investigations to explain and analyse the differences between transverse and longitudinal waves, and mechanical and electromagnetic waves
+- construct and/or interpret graphs of displacement as a function of time and as a function of position of transverse and longitudinal waves, and relate features to velocity, frequency, period, wavelength, displacement and amplitude
+- solve problems and/or make predictions by applying: v = fλ and f = 1/T
+
+WAVE BEHAVIOUR
+Inquiry question: How do waves behave?
+
+Students:
+- explain the behaviour of waves in a variety of situations by investigating the phenomena of reflection, refraction, diffraction, and wave superposition
+- conduct an investigation to distinguish between progressive and standing waves
+- conduct an investigation to explore resonance in mechanical systems and the relationships between driving frequency, natural frequency of the oscillating system, amplitude of motion, and transfer/transformation of energy within the system
+
+SOUND WAVES
+Inquiry question: What evidence suggests that sound is a mechanical wave?
+
+Students:
+- conduct a practical investigation to relate the pitch and loudness of a sound to its wave characteristics
+- model the behaviour of sound in air as a longitudinal wave and relate the displacement of air molecules to variations in pressure
+- investigate quantitatively the relationship between distance and intensity of sound
+- conduct investigations to analyse the reflection, diffraction, resonance and superposition of sound waves
+- investigate and model the behaviour of standing waves on strings and/or in pipes to quantitatively relate the fundamental and harmonic frequencies to physical characteristics such as length, mass, tension and wave velocity
+- analyse qualitatively and quantitatively the relationships of the wave nature of sound to explain beats: f_beat = f₂ - f₁, and the Doppler effect: f' = f(v_wave + v_observer)/(v_wave - v_source)
+
+RAY MODEL OF LIGHT
+Inquiry question: What properties can be demonstrated when using the ray model of light?
+
+Students:
+- conduct a practical investigation to analyse the formation of images in mirrors and lenses via reflection and refraction using the ray model of light
+- conduct investigations to examine qualitatively and quantitatively the refraction and total internal reflection of light
+- predict quantitatively, using Snell's Law, the refraction and total internal reflection of light in a variety of situations
+- conduct a practical investigation to demonstrate and explain the phenomenon of the dispersion of light
+- conduct an investigation to demonstrate the relationship between the inverse square law, the intensity of light and the transfer of energy
+- solve problems or make quantitative predictions by applying: n_x = c/v_x, n₁sinθ₁ = n₂sinθ₂ (Snell's Law), sinθ_c = n₂/n₁, and I₁r₁² = I₂r₂²
+
+THERMODYNAMICS
+Inquiry question: How are temperature, thermal energy and particle motion related?
+
+Students:
+- explain the relationship between the temperature of an object and the kinetic energy of the particles within it
+- explain the concept of thermal equilibrium
+- analyse the relationship between the change in temperature of an object and its specific heat capacity through Q = mcΔT
+- investigate energy transfer by the processes of conduction, convection, and radiation
+- conduct an investigation to analyse qualitatively and quantitatively the latent heat involved in a change of state
+- model and predict quantitatively energy transfer from hot objects by the process of thermal conductivity
+- apply Q = mcΔT and Q/t = kAΔT/d where k is the thermal conductivity of a material
+
+
+--- Module 4: Electricity and Magnetism ---
+
+Content Focus: Atomic theory and the laws of conservation of energy and electric charge are unifying concepts in understanding the electrical and magnetic properties and behaviour of matter. Interactions can be understood and analysed in terms of electric fields represented by lines. Students also examine how the analysis of electrical circuits' behaviour and the transfer and conversion of energy has led to a variety of technological applications.
+
+ELECTROSTATICS
+Inquiry question: How do charged objects interact with other charged objects and with neutral objects?
+
+Students:
+- conduct investigations to describe and analyse qualitatively and quantitatively processes by which objects become electrically charged, the forces produced by other objects as a result of their interactions with charged objects, and variables that affect electrostatic forces between those objects
+- using electric field lines, model qualitatively the direction and strength of electric fields produced by simple point charges, pairs of charges, dipoles, and parallel charged plates
+- apply the electric field model to account for and quantitatively analyse interactions between charged objects using: F = qE, E = V/d, and F = (1/4πε₀)(q₁q₂/r²)
+- analyse the effects of a moving charge in an electric field to relate potential energy, work and equipotential lines, by applying V = ΔU/q
+
+ELECTRIC CIRCUITS
+Inquiry question: How do the processes of the transfer and the transformation of energy occur in electric circuits?
+
+Students:
+- investigate the flow of electric current in metals and apply models to represent current, including I = q/t
+- investigate quantitatively the current-voltage relationships in ohmic and non-ohmic resistors to explore the usefulness and limitations of Ohm's Law using W = qV and V = IR
+- investigate quantitatively and analyse the rate of conversion of electrical energy in components of electric circuits, including the production of heat and light, by applying P = VI and E = Pt and variations involving Ohm's Law
+- investigate qualitatively and quantitatively series and parallel circuits to relate the flow of current, potential differences and rate of energy conversion to the laws of conservation of charge and energy, deriving: ΣI = 0 (Kirchhoff's current law), ΣV = 0 (Kirchhoff's voltage law), R_series = R₁ + R₂ + ... + R_n, and 1/R_parallel = 1/R₁ + 1/R₂ + ... + 1/R_n
+- investigate quantitatively the application of the law of conservation of energy to the heating effects of electric currents, including P = VI and variations involving Ohm's Law
+
+MAGNETISM
+Inquiry question: How do magnetised and magnetic objects interact?
+
+Students:
+- investigate and describe qualitatively the force produced between magnetised and magnetic materials in the context of ferromagnetic materials
+- use magnetic field lines to model qualitatively the direction and strength of magnetic fields produced by magnets, current-carrying wires and solenoids
+- conduct investigations into and describe quantitatively the magnetic fields produced by wires and solenoids, including B = μ₀I/(2πr) and B = μ₀NI/L
+- investigate and explain the process by which ferromagnetic materials become magnetised
+- apply models to represent qualitatively and describe quantitatively the features of magnetic fields
+
+
+============================================================
+YEAR 12 COURSE
+============================================================
+
+--- Module 5: Advanced Mechanics ---
+
+Content Focus: Motion in one dimension at constant velocity or constant acceleration can be explained and analysed relatively simply. However, motion is frequently more complicated because objects move in two or three dimensions, causing the net force to vary in size or direction. Students develop understanding that all forms of complex motion can be understood by analysing the forces acting on a system. They examine two-dimensional motion, including projectile motion and uniform circular motion, along with orbital motion of planets and satellites.
+
+PROJECTILE MOTION
+Inquiry question: How can models that are used to explain projectile motion be used to analyse and make predictions?
+
+Students:
+- analyse the motion of projectiles by resolving the motion into horizontal and vertical components, assuming constant vertical acceleration due to gravity and zero air resistance
+- apply the modelling of projectile motion to quantitatively derive the relationships between initial velocity, launch angle, maximum height, time of flight, final velocity, launch height, and horizontal range of the projectile
+- conduct a practical investigation to collect primary data to validate the relationships derived above
+- solve problems, create models and make quantitative predictions by applying the equations of motion relationships for uniformly accelerated and constant rectilinear motion
+
+CIRCULAR MOTION
+Inquiry question: Why do objects move in circles?
+
+Students:
+- conduct investigations to explain and evaluate, for objects executing uniform circular motion, the relationships between centripetal force, mass, speed, and radius
+- analyse the forces acting on an object executing uniform circular motion in a variety of situations, for example cars moving around horizontal circular bends, a mass on a string, and objects on banked tracks
+- solve problems, model and make quantitative predictions about objects executing uniform circular motion using: a_c = v²/r, v = 2πr/T, F_c = mv²/r, and ω = Δθ/t
+- investigate the relationship between total energy and work done on an object executing uniform circular motion
+- investigate the relationship between the rotation of mechanical systems and the applied torque: τ = r⊥F = rFsinθ
+
+MOTION IN GRAVITATIONAL FIELDS
+Inquiry question: How does the force of gravity determine the motion of planets and satellites?
+
+Students:
+- apply qualitatively and quantitatively Newton's Law of Universal Gravitation to determine the force of gravity between two objects: F = GMm/r², investigate factors that affect gravitational field strength: g = GM/r², and predict the gravitational field strength at any point in a gravitational field including at the surface of a planet
+- investigate the orbital motion of planets and artificial satellites when applying the relationships between gravitational force, centripetal force, centripetal acceleration, mass, orbital radius, orbital velocity, and orbital period
+- predict quantitatively the orbital properties of planets and satellites in a variety of situations, including near the Earth and geostationary orbits, and relate these to their uses
+- investigate the relationship of Kepler's Laws of Planetary Motion to the forces acting on, and total energy of, planets in circular and non-circular orbits using v = 2πr/T and r³/T² = GM/(4π²)
+- derive quantitatively and apply the concepts of gravitational force and gravitational potential energy in radial gravitational fields, including the concept of escape velocity: v_esc = √(2GM/r), total potential energy of a planet or satellite: U = -GMm/r, total energy of a planet or satellite: U + K = -GMm/(2r), and energy changes that occur when satellites move between orbits
+
+
+--- Module 6: Electromagnetism ---
+
+Content Focus: Discoveries about interactions between charged particles and electric and magnetic fields produced significant advances in physics and led to significant technological developments, including the generation and distribution of electricity. Understanding the interactions of single charges in electric and magnetic fields provides a foundation for understanding the force on a current-carrying wire, the force between current-carrying wires, Faraday's Law, transformers, and motors and generators.
+
+CHARGED PARTICLES, CONDUCTORS AND ELECTRIC AND MAGNETIC FIELDS
+Inquiry question: What happens to stationary and moving charged particles when they interact with an electric or magnetic field?
+
+Students:
+- investigate and quantitatively derive and analyse the interaction between charged particles and uniform electric fields, including electric field between parallel charged plates E = V/d, acceleration of charged particles by the electric field: F_net = ma, F = qE, and work done on the charge: W = qV, W = qEd, K = ½mv²
+- model qualitatively and quantitatively the trajectories of charged particles in electric fields and compare them with the trajectories of projectiles in a gravitational field
+- analyse the interaction between charged particles and uniform magnetic fields, including acceleration perpendicular to the field, and the force on the charge: F = qv⊥B = qvBsinθ
+- compare the interaction of charged particles moving in magnetic fields to the interaction of charged particles with electric fields and other examples of uniform circular motion
+
+THE MOTOR EFFECT
+Inquiry question: Under what circumstances is a force produced on a current-carrying conductor in a magnetic field?
+
+Students:
+- investigate qualitatively and quantitatively the interaction between a current-carrying conductor and a uniform magnetic field: F = lI⊥B = lIBsinθ to establish conditions under which the maximum force is produced, the relationship between the directions of force, magnetic field strength and current, and conditions under which no force is produced on the conductor
+- conduct a quantitative investigation to demonstrate the interaction between two parallel current-carrying wires
+- analyse the interaction between two parallel current-carrying wires: F/l = (μ₀/2π)(I₁I₂/r) and determine the relationship between the SI definition of an ampere and Newton's Third Law of Motion
+
+ELECTROMAGNETIC INDUCTION
+Inquiry question: How are electric and magnetic fields related?
+
+Students:
+- describe how magnetic flux can change, with reference to Φ = B∥A = BAcosθ
+- analyse qualitatively and quantitatively, with reference to energy transfers and transformations, examples of Faraday's Law and Lenz's Law: ε = -NΔΦ/Δt, including the generation of an emf by the relative movement between a magnet, straight conductors, metal plates and solenoids, and the generation of an emf produced by relative movement or changes in current in one solenoid in the vicinity of another solenoid
+- analyse quantitatively the operation of ideal transformers through: V_p/V_s = N_p/N_s and V_p I_p = V_s I_s
+- evaluate qualitatively the limitations of the ideal transformer model and the strategies used to improve transformer efficiency, including incomplete flux linkage, resistive heat production and eddy currents
+- analyse applications of step-up and step-down transformers, including the distribution of energy using high-voltage transmission lines
+
+APPLICATIONS OF THE MOTOR EFFECT
+Inquiry question: How has knowledge about the Motor Effect been applied to technological advances?
+
+Students:
+- investigate the operation of a simple DC motor to analyse the functions of its components, production of a torque: τ = nIA⊥B = nIABsinθ, and effects of back emf
+- analyse the operation of simple DC and AC generators and AC induction motors
+- relate Lenz's Law to the law of conservation of energy and apply the law of conservation of energy to DC motors and magnetic braking
+
+
+--- Module 7: The Nature of Light ---
+
+Content Focus: Prior to the 20th century, physicists developed theories and models about mechanics, electricity and magnetism and the nature of matter. However, the 20th century saw major developments as existing theories were challenged by new observations that could not be explained, leading to quantum theory and the theory of relativity. Technologies arising from these theories have shaped the modern world, including the independence of the speed of light on the frame of observation.
+
+ELECTROMAGNETIC SPECTRUM
+Inquiry question: What is light?
+
+Students:
+- investigate Maxwell's contribution to the classical theory of electromagnetism, including the unification of electricity and magnetism, prediction of electromagnetic waves, and prediction of velocity
+- describe the production and propagation of electromagnetic waves and relate these processes qualitatively to the predictions made by Maxwell's electromagnetic theory
+- conduct investigations of historical and contemporary methods used to determine the speed of light and its current relationship to the measurement of time and distance
+- conduct an investigation to examine a variety of spectra produced by discharge tubes, reflected sunlight or incandescent filaments
+- investigate how spectroscopy can be used to provide information about the identification of elements
+- investigate how the spectra of stars can provide information on surface temperature, rotational and translational velocity, density, and chemical composition
+
+LIGHT: WAVE MODEL
+Inquiry question: What evidence supports the classical wave model of light and what predictions can be made using this model?
+
+Students:
+- conduct investigations to analyse qualitatively the diffraction of light
+- conduct investigations to analyse quantitatively the interference of light using double slit apparatus and diffraction gratings: dsinθ = mλ
+- analyse the experimental evidence that supported the models of light proposed by Newton and Huygens
+- conduct investigations quantitatively using Malus' Law: I = I_max cos²θ for plane polarisation of light, to evaluate the significance of polarisation in developing a model for light
+
+LIGHT: QUANTUM MODEL
+Inquiry question: What evidence supports the particle model of light and what are the implications of this evidence for the development of the quantum model of light?
+
+Students:
+- analyse the experimental evidence gathered about black body radiation, including Wien's Law related to Planck's contribution to a changed model of light: λ_max = b/T
+- investigate the evidence from photoelectric effect investigations that demonstrated inconsistency with the wave model for light
+- analyse the photoelectric effect as it occurs in metallic elements by applying the law of conservation of energy and the photon model of light: K_max = hf - φ
+
+LIGHT AND SPECIAL RELATIVITY
+Inquiry question: How does the behaviour of light affect concepts of time, space and matter?
+
+Students:
+- analyse and evaluate the evidence confirming or denying Einstein's two postulates: the speed of light in a vacuum is an absolute constant, and all inertial frames of reference are equivalent
+- investigate the evidence from Einstein's thought experiments and subsequent experimental validation, for time dilation: t = t₀/√(1 - v²/c²) and length contraction: l = l₀√(1 - v²/c²), and analyse quantitatively situations in which these are observed, for example observations of cosmic-origin muons at the Earth's surface, atomic clocks (Hafele-Keating experiment), evidence from particle accelerators, and evidence from cosmological studies
+- describe the consequences and applications of relativistic momentum with reference to p_v = m₀v/√(1 - v²/c²) and the limitation on the maximum velocity of a particle imposed by special relativity
+- use Einstein's mass-energy equivalence relationship E = mc² to calculate the energy released by processes in which mass is converted to energy, for example production of energy by the sun, particle-antiparticle interactions, and combustion of conventional fuel
+
+
+--- Module 8: From the Universe to the Atom ---
+
+Content Focus: Current theories such as the Big Bang theory and claims of an expanding Universe are based on scientific evidence gathered through modern technologies. Evidence on the nucleosynthesis reactions in stars allows scientists to understand how elements are made in the nuclear furnace of stars. Beginning in the late 19th and early 20th centuries, experimental discoveries revolutionised understanding of matter at an atomic scale. By studying the development of atomic models through the work of Thomson, Rutherford, Bohr, de Broglie and Schrödinger, students understand how quantum mechanics provides a better way to understand the structure of the atom.
+
+ORIGINS OF THE ELEMENTS
+Inquiry question: What evidence is there for the origins of the elements?
+
+Students:
+- investigate the processes that led to the transformation of radiation into matter that followed the Big Bang
+- investigate the evidence that led to the discovery of the expansion of the Universe by Hubble
+- analyse and apply Einstein's description of the equivalence of energy and mass and relate this to the nuclear reactions that occur in stars
+- account for the production of emission and absorption spectra and compare these with a continuous black body spectrum
+- investigate the key features of stellar spectra and describe how these are used to classify stars
+- investigate the Hertzsprung-Russell diagram and how it can be used to determine characteristics and evolutionary stage, surface temperature, colour, and luminosity of a star
+- investigate the types of nucleosynthesis reactions involved in Main Sequence and Post-Main Sequence stars, including the proton-proton chain and the CNO (carbon-nitrogen-oxygen) cycle
+
+STRUCTURE OF THE ATOM
+Inquiry question: How is it known that atoms are made up of protons, neutrons and electrons?
+
+Students:
+- investigate, assess and model the experimental evidence supporting the existence and properties of the electron, including early experiments examining the nature of cathode rays, Thomson's charge-to-mass experiment, and Millikan's oil drop experiment
+- investigate, assess and model the experimental evidence supporting the nuclear model of the atom, including the Geiger-Marsden experiment, Rutherford's atomic model, and Chadwick's discovery of the neutron
+
+QUANTUM MECHANICAL NATURE OF THE ATOM
+Inquiry question: How is it known that classical physics cannot explain the properties of the atom?
+
+Students:
+- assess the limitations of the Rutherford and Bohr atomic models
+- investigate the line emission spectra to examine the Balmer series in hydrogen
+- relate qualitatively and quantitatively the quantised energy levels of the hydrogen atom and the law of conservation of energy to the line emission spectrum of hydrogen using E = hf, E = hc/λ, and 1/λ = R(1/n_f² - 1/n_i²)
+- investigate de Broglie's matter waves, and the experimental evidence that developed: λ = h/mv
+- analyse the contribution of Schrödinger to the current model of the atom
+
+PROPERTIES OF THE NUCLEUS
+Inquiry question: How can the energy of the atomic nucleus be harnessed?
+
+Students:
+- analyse the spontaneous decay of unstable nuclei, and the properties of the alpha, beta and gamma radiation emitted
+- examine the model of half-life in radioactive decay and make quantitative predictions about the activity or amount of a radioactive sample using: N_t = N₀e^(-λt) and λ = ln2/t½ where N_t = number of particles at time t, N₀ = number of particles present at t = 0, λ = decay constant, t½ = time for half the radioactive amount to decay
+- model and explain the process of nuclear fission, including the concepts of controlled and uncontrolled chain reactions, and account for the release of energy in the process
+- analyse relationships that represent conservation of mass-energy in spontaneous and artificial nuclear transmutations, including alpha decay, beta decay, nuclear fission and nuclear fusion
+- account for the release of energy in the process of nuclear fusion
+- predict quantitatively the energy released in nuclear decays or transmutations, including nuclear fission and nuclear fusion, by applying the law of conservation of energy, mass defect, binding energy, and Einstein's mass-energy equivalence relationship E = mc²
+
+DEEP INSIDE THE ATOM
+Inquiry question: How is it known that human understanding of matter is still incomplete?
+
+Students:
+- analyse the evidence that suggests that protons and neutrons are not fundamental particles and the existence of subatomic particles other than protons, neutrons and electrons
+- investigate the Standard Model of matter, including quarks and the quark composition of hadrons, leptons, and fundamental forces
+- investigate the operation and role of particle accelerators in obtaining evidence that tests and/or validates aspects of theories, including the Standard Model of matter
+
+
+============================================================
+GLOSSARY
+============================================================
+
+ampere: A unit of electric current equal to a flow of one coulomb per second.
+black body: An imaginary object that perfectly absorbs radiation at all wavelengths and is also a perfect emitter.
+charge: The intrinsic electrical nature of a body; may be positive or negative.
+classical physics: Physics as it was understood before the advent of quantum physics and relativity; generally applied to rules established before the end of the 19th century.
+collision: An interaction, usually involving contact, between two or more bodies.
+conclusion: A judgement based on evidence.
+controlled variable: A variable that is kept constant (or changed in constant ways) during an investigation.
+dependent variable: A variable that changes in response to changes to the independent variable in an investigation.
+elastic collision: A collision in which the total kinetic energy of the colliding bodies after collision is equal to their total kinetic energy before collision.
+electric current: The flow of electric charge, usually through a conductor or resistor.
+electric field: A region in which a stationary electric charge experiences a force due to the influence of another charged object.
+electrical resistance: The ratio of the voltage across a component of a circuit to the current flowing through it: R = V/I.
+energy: The capacity of a physical system to do work; the capacity of electromagnetic radiation to do work.
+equilibrium: A state of balance resulting from the application of two or more forces that produce a zero net force.
+field: A region in which a body experiences a force due to the effects of another body.
+force: An influence that acts to change the motion of a body or to impose an elastic strain on it.
+frame of reference: A coordinate system that enables the position of a body to be specified.
+hypothesis: A tentative explanation for an observed phenomenon, expressed as a precise and unambiguous statement that can be supported or refuted by investigation.
+independent variable: A variable that is changed in an investigation to see what effect it has on the dependent variable.
+inelastic collision: A collision in which the total kinetic energy of the colliding bodies after collision is less than their total kinetic energy before collision.
+inertial frame of reference: A reference frame in which a body moves at a constant velocity unless acted on by a net force.
+kinetic energy: The energy that an object possesses by virtue of its motion.
+law: A statement describing invariable relationships between phenomena in specified conditions, frequently expressed mathematically.
+linear momentum: The product of the mass and the velocity of a body.
+model: A representation that describes, simplifies, clarifies or provides an explanation of the workings, structure or relationships within an object, system or idea.
+net force: The vector sum of the forces acting on a body.
+photoelectric effect: The process in which a photon ejects an electron from an atom so that all the energy of the photon is absorbed in separating the electron and imparting kinetic energy to it.
+reliability: An extent to which repeated observations and/or measurements taken under identical circumstances will yield similar results.
+theory: A set of concepts, claims and/or laws that can be used to explain and predict a wide range of related observed phenomena. Theories are founded on clearly identified assumptions, are testable, produce reproducible results and have explanatory power.
+validity: An extent to which tests measure what was intended; an extent to which data, inferences and actions produced from tests and other processes are accurate.
+variable: In an investigation, a factor that can be changed, maintained or measured, for example time, distance, light, temperature.
+vector: A quantity having both magnitude and direction.
+voltage: A measure of the electrical potential difference between two points.
+work: Work done by a force when the application of that force results in movement having a component in the direction of the applied force.
