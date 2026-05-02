@@ -77,5 +77,5 @@ def convert_encoding(input_file, output_file):
     print(f"   Lines: {len(content.split(chr(10)))}")
 
 if __name__ == '__main__':
-    convert_encoding('nesa_syllabuses/nesa_english_advanced.txt',
-                     'nesa_syllabuses/nesa_english_advanced.txt')
+    convert_encoding('/kaggle/input/datasets/ninjanick/nesa-core-subjects/nesa_english_advanced.txt',
+                     '/kaggle/input/datasets/ninjanick/nesa-core-subjects/nesa_english_advanced.txt')

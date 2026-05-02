@@ -22,7 +22,7 @@ def main():
         return
     
     cmd = sys.argv[1]
-    cm = CorpusManager(data_dir="nesa_syllabuses")
+    cm = CorpusManager(data_dir="/kaggle/input/datasets/ninjanick/nesa-core-subjects")
     
     if cmd == "list":
         cm.status()

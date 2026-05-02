@@ -17,7 +17,7 @@ import sys
 from pathlib import Path
 
 
-def train_all_subjects(data_dir="nesa_syllabuses", checkpoint_path=None):
+def train_all_subjects(data_dir="/kaggle/input/datasets/ninjanick/nesa-core-subjects", checkpoint_path=None):
     """Train on all available subjects in the curriculum order."""
     # Import here to allow --help without torch installed
     from tokenizer import ByteTokenizer
@@ -59,7 +59,7 @@ def train_all_subjects(data_dir="nesa_syllabuses", checkpoint_path=None):
     trainer.print_history()
 
 
-def train_single_subject(subject, data_dir="nesa_syllabuses", checkpoint_path=None):
+def train_single_subject(subject, data_dir="/kaggle/input/datasets/ninjanick/nesa-core-subjects", checkpoint_path=None):
     """Train on a single subject."""
     # Import here to allow --help without torch installed
     from tokenizer import ByteTokenizer
@@ -109,7 +109,7 @@ def main():
 Examples:
   python train_locally.py                              # train on all subjects
   python train_locally.py --subject Biology            # train on Biology only
-  python train_locally.py --subject Chemistry --data nesa_syllabuses
+  python train_locally.py --subject Chemistry --data /kaggle/input/datasets/ninjanick/nesa-core-subjects
   python train_locally.py --checkpoint checkpoints/backup.pt  # resume training
         """,
     )
@@ -121,9 +121,9 @@ Examples:
     )
     parser.add_argument(
         "--data", "-d",
-        default="nesa_syllabuses",
+        default="/kaggle/input/datasets/ninjanick/nesa-core-subjects",
         dest="data_dir",
-        help="Path to directory containing .txt syllabus files (default: nesa_syllabuses)"
+        help="Path to directory containing .txt syllabus files (default: /kaggle/input/datasets/ninjanick/nesa-core-subjects)"
     )
     parser.add_argument(
         "--checkpoint", "-c",

@@ -23,7 +23,7 @@ except ImportError:
 
 # Configuration
 PDF_SOURCE_DIR = "nesa_syllabuses_PDF"
-TEXT_OUTPUT_DIR = "nesa_syllabuses"
+TEXT_OUTPUT_DIR = "/kaggle/input/datasets/ninjanick/nesa-core-subjects"
 
 # PDF file mappings: (pdf_filename, output_filename_without_txt)
 PDF_MAPPINGS = [

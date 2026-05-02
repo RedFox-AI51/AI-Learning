@@ -51,5 +51,5 @@ def clean_syllabus(input_file, output_file):
     print(f"✓ Cleaned and fixed encoding: {output_file}")
 
 if __name__ == '__main__':
-    clean_syllabus('nesa_syllabuses/nesa_english_advanced.txt', 
-                   'nesa_syllabuses/nesa_english_advanced.txt')
+    clean_syllabus('/kaggle/input/datasets/ninjanick/nesa-core-subjects/nesa_english_advanced.txt', 
+                   '/kaggle/input/datasets/ninjanick/nesa-core-subjects/nesa_english_advanced.txt')

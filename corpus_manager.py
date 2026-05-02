@@ -6,7 +6,7 @@ trainer in curriculum order.
 
 Expected file layout
 --------------------
-    nesa_syllabuses/
+    /kaggle/input/datasets/ninjanick/nesa-core-subjects/
         nesa_biology.txt
         nesa_chemistry.txt
         nesa_physics.txt
@@ -33,7 +33,7 @@ Usage
     model   = StudentTransformer(StudentConfig())
     trainer = Trainer(model, tok)
 
-    cm = CorpusManager(trainer, data_dir="nesa_syllabuses")
+    cm = CorpusManager(trainer, data_dir="/kaggle/input/datasets/ninjanick/nesa-core-subjects")
     cm.ingest_subject("Biology")   # train on Biology
     cm.ingest_all()                # train on everything
     cm.status()                    # show what has been learned
@@ -136,7 +136,7 @@ class CorpusManager:
 
     INDEX_FILE = "corpus_index.json"
 
-    def __init__(self, trainer=None, data_dir: str = "nesa_syllabuses"):
+    def __init__(self, trainer=None, data_dir: str = "/kaggle/input/datasets/ninjanick/nesa-core-subjects"):
         self.trainer  = trainer
         self.data_dir = Path(data_dir)
         self.data_dir.mkdir(parents=True, exist_ok=True)
@@ -393,19 +393,19 @@ Examples:
         return Trainer(model, tok)
 
     if args.cmd == "list":
-        CorpusManager(data_dir="nesa_syllabuses").status()
+        CorpusManager(data_dir="/kaggle/input/datasets/ninjanick/nesa-core-subjects").status()
 
     elif args.cmd == "sections":
-        CorpusManager(data_dir="nesa_syllabuses").list_sections(args.subject)
+        CorpusManager(data_dir="/kaggle/input/datasets/ninjanick/nesa-core-subjects").list_sections(args.subject)
 
     elif args.cmd == "preview":
-        CorpusManager(data_dir="nesa_syllabuses").preview(
+        CorpusManager(data_dir="/kaggle/input/datasets/ninjanick/nesa-core-subjects").preview(
             args.subject, n_sections=args.n_sections
         )
 
     elif args.cmd == "ingest":
         trainer = _make_trainer()
-        cm      = CorpusManager(trainer, data_dir="nesa_syllabuses")
+        cm      = CorpusManager(trainer, data_dir="/kaggle/input/datasets/ninjanick/nesa-core-subjects")
         section_by_section = not args.whole
         if args.all:
             cm.ingest_all()
@@ -424,7 +424,7 @@ if __name__ == "__main__":
     if len(sys.argv) > 1:
         _cli()
     else:
-        cm = CorpusManager(data_dir="nesa_syllabuses")
+        cm = CorpusManager(data_dir="/kaggle/input/datasets/ninjanick/nesa-core-subjects")
         cm.status()
         try:
             cm.preview("biology", n_sections=1)

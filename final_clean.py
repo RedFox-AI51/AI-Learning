@@ -1,7 +1,7 @@
 import re
 
 # Read the current file
-with open('nesa_syllabuses/nesa_english_advanced.txt', 'r', encoding='utf-8') as f:
+with open('/kaggle/input/datasets/ninjanick/nesa-core-subjects/nesa_english_advanced.txt', 'r', encoding='utf-8') as f:
     content = f.read()
 
 # Find where "Introduction" starts (this is the real content)
@@ -40,7 +40,7 @@ content = header + content
 content = content.strip() + '\n'
 
 # Write clean version
-with open('nesa_syllabuses/nesa_english_advanced.txt', 'w', encoding='utf-8') as f:
+with open('/kaggle/input/datasets/ninjanick/nesa-core-subjects/nesa_english_advanced.txt', 'w', encoding='utf-8') as f:
     f.write(content)
 
 line_count = len(content.split('\n'))
